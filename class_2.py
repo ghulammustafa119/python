@@ -18,7 +18,6 @@
 #--------------------------------------------------------------
 # comparison operators....
 # age = int(input("Enter your age:"))
-
 # if(age < 18):
 #   print("you are a minor.")
 # elif(age == 18):
@@ -54,7 +53,7 @@
 # pizza_lover = False
 # if(is_hungry and (burger_lover or pizza_lover)):
 #   print("let's order the food")
-
+#-------------------------------------------------
 # is_hungry = False
 # burger_lover = False
 # pizza_lover = False
@@ -62,7 +61,7 @@
 #   print("let's order the food")
 # elif(is_hungry):
 #   print("let's go to sleep.")
-    
+#-------------------------------------------------------------   
 # is_hungry = True
 # burger_lover = False
 # pizza_lover = False
@@ -70,7 +69,7 @@
 #   print("let's order the food")
 # elif(is_hungry):
 #   print("let's go to sleep.")
-
+#---------------------------------------------
 # is_hungry = True
 # burger_lover = False
 # pizza_lover = True
@@ -78,7 +77,7 @@
 #   print("let's order the food")
 # elif(is_hungry):
 #   print("let's go to sleep.")
-   
+#----------------------------------------------------  
 # is_hungry = False
 # burger_lover = False
 # pizza_lover = True
@@ -88,7 +87,7 @@
 #   print("let's go to sleep.")
 # else:
 #   print("Not hungry.")
-
+#--------------------------------------------------
 is_hungry = False
 burger_lover = True
 pizza_lover = True

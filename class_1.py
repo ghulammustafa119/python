@@ -3,14 +3,14 @@ name = "Ghulam Mustafa Bhutto"  # string
 # print(f"""Hello! {name} {message}""") # using (string) and (f string) and (doc string)
 
 # print(f"my name is {name}") # use of (f string)
-
+#---------------------------------------------------------------
 paragraph = """Hello        
 Ghulam Mustafa Bhutto 
 would you like to learn some python with me"""    # doc string
 # print(paragraph)
 
 # print(f"Hello {name} {message} ")
-
+#-------------------------------------------------------------
 first_name = "Ghulam Mujtaba Bhutto"
 # print(
 #     f"""
@@ -21,6 +21,7 @@ first_name = "Ghulam Mujtaba Bhutto"
 
 # """
 # )
+#----------------------------------------------------------------
 example =     f"""
 Hi {first_name},
 you got a free coupon code: Happy New Year 2025
@@ -29,39 +30,40 @@ Ghulam Mustafa Bhutto
 
 """
 # print(example)
-
+#------------------------------------------------------------
 # opprators
 
-# num1 = 10
-# num2 = 20
-# res = num1 + num2
+num1 = 10
+num2 = 20
+res = num1 + num2
 # print(res)
 
-# num1 = 10
-# num2 = 20
-# res = num1 - num2
+num1 = 10
+num2 = 20
+res = num1 - num2
 # print(res)
 
-# num1 = 10
-# num2 = 20
-# res = num1 * num2
+num1 = 10
+num2 = 20
+res = num1 * num2
 # print(res)
 
-# num1 = 10
-# num2 = 20
-# res = num1 / num2
+num1 = 10
+num2 = 20
+res = num1 / num2
 # print(res)
 
-# num1 = 20
-# num2 = 2
-# res = num1 % num2
+num1 = 20
+num2 = 2
+res = num1 % num2
 # print(res)
 
-# num1 = 10
-# num2 = 3
-# res = num1 ** num2
+num1 = 10
+num2 = 3
+res = num1 ** num2
 # print(res)
-
+#--------------------------------
+#  Making rabri
 faculty = 12
 admin = 4
 students = 100

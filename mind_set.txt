@@ -1,0 +1,42 @@
+Growth Mindset Challenge: Streamlit Web App
+Ek zabardast challenge hai jo tumhari personal aur academic growth ko improve kar sakta hai—Growth Mindset Challenge!
+
+Growth Mindset Kya Hai?
+Growth mindset ek aisa sochne ka tareeqa hai jisme tum ye maante ho ke tumhari abilities aur intelligence mehnat, lagan aur galtiyon se seekhne se behtar ho sakti hain. Ye concept psychologist Carol Dweck ne popular kiya tha. Iska matlab hai ke skills fixed nahi hoti, balki har challenge ek naye learning opportunity ho sakti hai.
+
+Growth Mindset Kyun Apnana Chahiye?
+✅ Challenges ko accept karo – Har rukawat ko ek naya lesson samjho, na ke failure.
+✅ Galtiyon se seekho – Ghalti karna learning ka ek natural part hai. Har mistake ek naya improvement ka chance deti hai.
+✅ Difficulties ko overcome karo – Jab mushkilein ayein to haar mat mano. Mehnat aur consistency se improvement hoti hai.
+✅ Effort ko appreciate karo – Bas result par focus mat karo, jo mehnat tumne ki hai uska bhi maza lo.
+✅ Open-minded raho – Hamesha naye ideas aur naye tareeqon ko explore karne ke liye tayyar raho.
+
+Growth Mindset Ko Daily Life Mein Kaise Practice Karein?
+📌 Learning Goals Set Karo – Sirf grades par focus mat karo, naye skills aur complex concepts seekhne par bhi dhyan do.
+📌 Apni learning ko reflect karo – Har roz socho ke tumne kya seekha aur kaise improve kar sakte ho.
+📌 Feedback lo – Constructive criticism ko accept karo aur use apni behtari ke liye istemal karo.
+📌 Positive raho – Apne growth potential ko samjho aur hamesha naye tareeqe explore karne ke liye ready raho.
+
+Challenge: Streamlit Web App Project
+Tum sab ko ek Streamlit web app develop karni hai jo growth mindset ko promote karegi.
+
+✅ Project Details:
+
+Streamlit aur UV ka use kar ke ek web app banao.
+Apni coding ko GitHub par upload karo (lekin apna source code share mat karo).
+Streamlit app ko web par host karo taake sab use kar sakein.
+Apni section ke WhatsApp group mein apni published app ka link share karo.
+⚡ Jaldi karo! Ye tumhari growth mindset aur coding skills improve karne ka ek golden chance hai! 💡🔥
+-----------------------------------------------------------------------------------------------
+
+(Constructive criticism)---
+Constructive criticism ka matlab hai aisa feedback jo aapko behtar banane me madad kare. Iska maksad sirf galtiyan nikalna nahi hota, balki aapko improve karne ke liye positive aur useful suggestions dena hota hai.
+
+Example:
+❌ Negative Criticism:
+"Tumhari presentation bilkul bekaar thi, tumhe kuch nahi aata!" (Sirf bura bol diya, koi madad nahi ki)
+
+✅ Constructive Criticism:
+"Tumhari presentation achi thi, lekin agar tum slides ko thoda aur organized rakho aur apni voice ko thoda clear karo, to aur behtar ho sakti hai." (Yahan bataya gaya ke kya improve kar sakte ho)
+
+Matlab jab kisi ko feedback do, to is tareeke se do ke samne wala apni mistakes samajh sake aur behtar ho sake. 🚀
